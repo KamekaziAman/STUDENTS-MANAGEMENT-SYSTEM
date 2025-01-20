@@ -30,12 +30,16 @@ A simple Student Management System built using Python, Tkinter for the GUI, and 
 ![image](https://github.com/user-attachments/assets/dba697a1-8997-45d9-b2c6-571fe9e4e572)
 
 
-### How to Use the `README.md`:
+### How to Use
+Run the application:
+Execute the main.py file.
+The GUI will open, allowing you to interact with the system.
+Add Student: Enter the student details in the input fields and click the Submit button to add them to the database.
 
-1. **Clone the Repository**: The instructions on how to clone the project and install dependencies are included.
-2. **Database Setup**: It provides instructions on creating the database and table necessary for the system to function.
-3. **Features**: It highlights all the major features your system offers, such as adding, updating, deleting, and searching students.
-4. **Usage Instructions**: Step-by-step guide to running the application, performing CRUD operations, and using the search functionality.
+Update Student: Select a student from the list, update the fields, and click the Update button.
 
-Once you modify it to match your exact setup (e.g., GitHub link, any custom configurations), this file will be ready to be uploaded to your GitHub repository!
+Delete Student: Select a student from the list and click the Delete button to remove the student record.
 
+Search Student: Select the search field (e.g., Roll No, Name) and enter a search term to filter the records. Click Search to view the results.
+
+Show All: Click the Show All button to display all student records from the database.
